@@ -49,3 +49,9 @@ kbd {
   letter-spacing: .1rem;
   color: white;
 }
+
+.header {
+  padding-top: 200px;
+  text-align: center;
+  font-size: 45px;
+}
